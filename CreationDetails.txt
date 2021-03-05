@@ -1,0 +1,8 @@
+It took me around 4-5 hrs to make this web app.
+
+I have used Singleton Pattern to handle Api Call.
+
+Except Current Location Part Everything else was done in around 2 hrs.
+In my personal Laptop JDK is giving problem in getting recognised by cocos.
+Therefor currently I am unable to build for native.
+
