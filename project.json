@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Weather",
+  "id": "4b9a9073-2f04-4a07-83e1-346ade746997",
+  "version": "2.4.2",
+  "isNew": false
+}
